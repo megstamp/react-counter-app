@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  padding: 20px;
+  font-size: 30px;
+  color: white;
+  background-color: skyblue;
+}
+
+section h2 {
+  font-size: 150px;
+  background: #74CFCF;
+  background: #74CFCF;
+  background: linear-gradient(to bottom left, #74CFCF 20%, #CF519C 65%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  
+}

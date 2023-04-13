@@ -1,6 +1,6 @@
 export default function Footer() {
 
-    const githubURL = "https//github.com/megstamp/react-counter-app";
+    const githubURL = "https://megstamp.github.io/react-counter-app/ ";
 
     return (
         <footer>
